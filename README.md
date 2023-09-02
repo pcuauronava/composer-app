@@ -1,2 +1,4 @@
-# composer-app
-Angular Reactive Composer App
+# Composer App with Angular
+## Contributors
+* Richard Krasso
+* Patrick Cuauro
